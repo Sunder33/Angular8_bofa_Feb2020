@@ -1,2 +1,1 @@
-# Angular8_bofa_Feb2020
-Angular 8 Training @ BOFA
+# rps_boancr_angular_feb2020
